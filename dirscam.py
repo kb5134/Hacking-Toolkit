@@ -1,3 +1,5 @@
+#TODO arrumar essa merda e juntar com os outros
+
 import socket
 
 url = input("insira a URL que deseja testar: ")

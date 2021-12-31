@@ -1,3 +1,5 @@
+#TODO por em uma função, os inputs e juntar no main
+
 import socket, sys, os  
 print ("][ Attacking " + sys.argv[1]  + " ... ]["  )
 
